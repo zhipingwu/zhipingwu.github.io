@@ -7,6 +7,8 @@
 ## 目录结构
     大概有20多个目前，我们最需要关注的主要有两个目录，sql,storage
     sql里面是除了存储引擎之外mysql的绝大部分逻辑，storage主要是各个存储引擎的功能，比如innodb的页面，锁等机制
+
+
 ```
 BUILD
 client
